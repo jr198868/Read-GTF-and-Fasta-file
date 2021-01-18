@@ -1,4 +1,4 @@
-# reads fasta file to create a dictionary of key = chromosome name and value = sequenc
+# reads fasta file to create a dictionary of key = chromosome name and value = sequence
 
 def read_fasta(input_fasta):
     fas = {}
