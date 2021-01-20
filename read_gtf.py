@@ -1,4 +1,4 @@
-# reads ensGene file and create a list of list, containing following information
+# reads ensGene file and create a list of list, containing following information:
 # chromosome, gene id, type(transcript, cds, exon, intron, etc), starting, ending
 
 def read_gtf(input_gtf):
